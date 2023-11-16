@@ -143,8 +143,8 @@ body p {
     margin-top: 10px;
 }
 
-
-.input-wrappern .input-note{
+.input-wrappern textarea
+{
     width: 100%;
     height: 70px;
     padding: 8px 12px 8px 30px;
@@ -153,6 +153,7 @@ body p {
     border-radius: 1px;
     overflow: auto;
 }
+
 
 
 .input-wrappern img {
@@ -171,6 +172,8 @@ body p {
     
 
 }
+
+
 
 .button-wrapper button{
     width: 100%;
